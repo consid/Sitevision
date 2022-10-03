@@ -1,4 +1,4 @@
-# This is Consids open source projects in Sitevision
+#Consid open source projects in Sitevision
 
 ## Projects
 ### Eslint Config Sitevision
