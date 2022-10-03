@@ -61,5 +61,5 @@ npm run build-storybook
 ```
 npm run deploy-storybook
 ```
-
-
+## Authors
+- [Filip Huhta](https://github.com/filiphuhta)

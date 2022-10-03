@@ -117,4 +117,5 @@ server.listen(port, hostname, () => {
 });
 ```
 
-
+## Authors
+- [Filip Huhta](https://github.com/filiphuhta)

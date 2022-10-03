@@ -1,0 +1,24 @@
+{
+  "name": "@consid/eslint-config-sitevision",
+  "version": "1.0.0",
+  "description": "Eslint config for webapps/restapps, created to be used with boilerplate",
+  "main": "index.js",
+  "homepage": "https://github.com/consid/Sitevision/tree/main/react-component-library",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/consid/Sitevision/tree/main/sitevision-component-library.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "eslint",
+    "eslint-config",
+    "eslint-config-sitevision"
+  ],
+  "author": "Consid",
+  "license": "ISC",
+  "peerDependencies": {
+    "eslint": ">= 3"
+  }
+}
