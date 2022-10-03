@@ -1,6 +1,5 @@
 module.exports = {
   globals: {},
-  ignorePatterns: ["/assets", "/src", "gulpfile.js"],
   rules: {
     // code styles (warnings)
     "semi": 1,
