@@ -1,6 +1,6 @@
 {
   "name": "@consid/eslint-config-sitevision",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Eslint config for webapps/restapps, created to be used with boilerplate",
   "main": "index.js",
   "homepage": "https://github.com/consid/Sitevision/tree/main/eslint-config-sitevision",

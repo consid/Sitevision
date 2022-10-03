@@ -5,7 +5,7 @@
 ### Install the project
 
 ```
-npm i @consid/sitevision-component-library
+npm i @consid/eslint-config-sitevision
 ```
 You will now use Consids default [EsLint](https://eslint.org/) configuration.
 
