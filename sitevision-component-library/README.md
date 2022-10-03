@@ -1,17 +1,17 @@
 # React Components Archive
-A react component library with differnt types of react components.
+A react component library with different types of react components.
 
 ## Getting started
 
 ### Install the project
 
 ```
-npm i react-components-archive
+npm i @consid/sitevision-component-library
 ```
 
 ### Import component in JS file
 ```js
-import { Button } from 'react-components-archive';
+import { Button } from '@consid/sitevision-component-library';
 
 const App = ({ }) => {
   return (
