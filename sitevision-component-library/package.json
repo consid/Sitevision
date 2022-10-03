@@ -1,11 +1,11 @@
 {
-  "name": "react-components-archive",
-  "version": "0.0.5",
+  "name": "@consid/sitevision-component-library",
+  "version": "0.0.1",
   "description": "A react component library",
-  "homepage": "https://filiphuhta.github.io/react-components-archive",
+  "homepage": "https://github.com/consid/Sitevision/tree/main/sitevision-component-library",
   "repository": {
     "type": "git",
-    "url": "https://github.com/filiphuhta/react-componens-archive.git"
+    "url": "https://github.com/consid/Sitevision/tree/main/sitevision-component-library.git"
   },
   "scripts": {
     "rollup": "rollup -c",
