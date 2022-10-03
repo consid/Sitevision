@@ -8,7 +8,7 @@
   "dependencies": {
     "nodemon": "^2.0.16"
   },
-  "author": "Consid",
+  "author": "Filip Huhta",
   "repository": {
     "type": "git",
     "url": "https://github.com/consid/sitevision-functions"
