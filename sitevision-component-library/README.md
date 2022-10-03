@@ -1,4 +1,4 @@
-# React Components Archive
+# Sitevision component library
 A react component library with different types of react components.
 
 ## Getting started
