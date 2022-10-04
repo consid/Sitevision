@@ -10,7 +10,7 @@ npm i @consid/eslint-config-sitevision
 You will now use Consids default [EsLint](https://eslint.org/) configuration.
 
 ## Linting rules
-There is several rules in this npm package. The rules that is used is listed under Warnings / Error. 
+There is several rules in this npm package. The rules that is used is listed under **Warnings** / **Error**. 
 ### Warnings 
 
 [semi ](https://eslint.org/docs/latest/rules/semi) 
