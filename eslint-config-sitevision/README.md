@@ -7,6 +7,18 @@
 ```
 npm i @consid/eslint-config-sitevision
 ```
+### Add the linting configuration:
+In [WebApps](https://developer.sitevision.se/docs/webapps/webapps-2/getting-started) and [RestApps](https://developer.sitevision.se/docs/rest-api/restapps) you need to add the linting that should be used. You will need to extend the configuration ***@consid/eslint-config-sitevision*** in your ***package.json*** file. 
+```json
+"eslintConfig": {
+    "extends": [
+      "@sitevision/eslint-config-recommended",
+      "@sitevision/eslint-config-webapp-react",
+      "@consid/eslint-config-sitevision"
+    ]
+  },
+```
+
 You will now use Consids default [EsLint](https://eslint.org/) configuration.
 
 ## Linting rules
