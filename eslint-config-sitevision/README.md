@@ -69,6 +69,15 @@ There is several rules in this npm package. The rules that is used is listed und
 
 [no-var ](https://eslint.org/docs/latest/rules/no-var)
 
+
+## Ignore files from being linted
+You can ignore files from being linted in ***package.json***.
+```json
+"eslintConfig": {
+       "ignorePatterns": ["src/", "index.js"]
+  },
+
+```
 ## Authors
 - [Alexander Lesser](https://github.com/alexanderlesser)
 - [Filip Huhta](https://github.com/filiphuhta)
