@@ -14,6 +14,7 @@ You will now use Consids default [EsLint](https://eslint.org/) configuration.
 ## Warnings
 
 [semi ](https://eslint.org/docs/latest/rules/semi) 
+
 [prefer-spread ](https://eslint.org/docs/latest/rules/prefer-spread)
 
 [indent ](https://eslint.org/docs/latest/rules/indent)
