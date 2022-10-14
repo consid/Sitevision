@@ -4,7 +4,7 @@ module.exports = {
     // code styles (warnings)
     "semi": 1,
     "prefer-spread": 1,
-    "indent": [1, 3],
+    "indent": [1, 2],
     "arrow-spacing": [1, {"before": true, "after": true}],
     "comma-spacing": [1, {"before": false, "after": true}],
     "key-spacing": [1, {"beforeColon": false, "afterColon": true}],
