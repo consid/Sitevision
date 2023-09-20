@@ -3,15 +3,17 @@ import "./Button.scss";
 
 export interface ButtonProps {
   label: string;
-  color: string;
-  backgroundColor: string;
+  type: string;
 }
 
 const Button = (props: ButtonProps) => {
-  return <button style={{
-    backgroundColor: props.backgroundColor,
-    color: props.color
-  }} className="rcl-button">{props.label}</button>;
+  const className = `rcl-button--${props.type}`;
+
+  return (
+    <button className={`rcl-button ${className}`}>
+      {props.label}
+    </button>
+  );
 };
 
 export default Button;
