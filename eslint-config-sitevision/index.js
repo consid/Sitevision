@@ -42,7 +42,6 @@ module.exports = {
     "no-useless-escape": "error",
     "no-with": "error",
     "require-await": "error",
-    "no-return-await": "error",
     "eqeqeq": ["error", "always"],
     "no-console": "warn",
     "no-undef": "error",
