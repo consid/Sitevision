@@ -20,7 +20,7 @@ module.exports = {
     "no-use-before-define": 2,
     "no-unreachable-loop": 2,
     "no-floating-decimal": 2,
-    "dot-notation": [2, { "allowKeywords": false }],
+    "dot-notation": 2,
     "no-empty-function": 2,
     "func-style": ["error", "expression"],
     "vars-on-top": 2,
