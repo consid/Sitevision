@@ -43,6 +43,18 @@ module.exports = {
     "no-with": "error",
     "require-await": "error",
     "no-return-await": "error",
-    "eqeqeq": ["error", "always"]
+    "eqeqeq": ["error", "always"],
+    "no-console": "warn",
+    "no-undef": "error",
+    "no-unused-vars": ["error", {
+      vars: "all",
+      args: "after-used",
+      ignoreRestSiblings: false,
+    }],
+    semi: "off",
+    quotes: "off",
+    indent: "off",
+    "comma-dangle": "off",
+    "space-before-function-paren": "off",
   }
 };
